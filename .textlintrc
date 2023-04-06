@@ -1,0 +1,15 @@
+{
+    "rules": {
+        "textlint-rule-no-dropping-the-ra": true,
+        "textlint-rule-ja-no-space-between-full-width": true,
+        "preset-ja-spacing": true,
+        "preset-ja-technical-writing": true,
+        "no-mix-dearu-desumasu": true,
+        "max-ten": true,
+        "spellcheck-tech-word": true,
+        "@proofdict/proofdict": {
+            "dictURL": "https://azu.github.io/proof-dictionary/"
+        }
+    },
+    "filters": {}
+}
